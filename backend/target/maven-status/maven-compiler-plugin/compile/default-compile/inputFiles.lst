@@ -1,0 +1,17 @@
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\models\ERole.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\payload\request\SignupRequest.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\repository\UserRepository.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\security\jwt\JwtUtils.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\security\services\UserDetailsImpl.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\security\jwt\AuthEntryPointJwt.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\controllers\AuthController.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\repository\RoleRepository.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\BackendApplication.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\security\WebSecurityConfig.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\payload\request\LoginRequest.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\models\User.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\security\jwt\AuthTokenFilter.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\payload\response\JwtResponse.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\models\Role.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\payload\response\MessageResponse.java
+C:\Users\jihed\OneDrive\Desktop\app lavage\backend\src\main\java\com\lavage\app\security\services\UserDetailsServiceImpl.java
